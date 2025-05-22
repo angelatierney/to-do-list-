@@ -1,3 +1,17 @@
 Algorithm 
 
 1. Initialize an empty to do list 
+Algorithm for to do list 
+
+1. Initalize an empty list 
+2. Display a user menu with options 
+- add 
+- view 
+- delete
+- search  
+- exit 
+- group by category 
+3. Get user input based on the display menu
+4. 
+
+
